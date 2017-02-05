@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/master.swiftdeps"
+  },
+  "/Users/rui.peres/OSS/monocle/Sources/inspect.swift": {
+    "dependencies": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/inspect.d",
+    "object": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/inspect.swift.o",
+    "swiftmodule": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/inspect~partial.swiftmodule",
+    "swift-dependencies": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/inspect.swiftdeps"
+  },
+  "/Users/rui.peres/OSS/monocle/Sources/main.swift": {
+    "dependencies": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/main.d",
+    "object": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/main.swift.o",
+    "swiftmodule": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/main.swiftdeps"
+  },
+  "/Users/rui.peres/OSS/monocle/Sources/root.swift": {
+    "dependencies": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/root.d",
+    "object": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/root.swift.o",
+    "swiftmodule": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/root~partial.swiftmodule",
+    "swift-dependencies": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/root.swiftdeps"
+  },
+  "/Users/rui.peres/OSS/monocle/Sources/setup.swift": {
+    "dependencies": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/setup.d",
+    "object": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/setup.swift.o",
+    "swiftmodule": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/setup~partial.swiftmodule",
+    "swift-dependencies": "/Users/rui.peres/OSS/monocle/.build/debug/monocle.build/setup.swiftdeps"
+  }
+}
