@@ -1,8 +1,0 @@
-version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
-options: "73fe544650b584c57b338e5c97fd6dc3"
-build_time: [539626340, 725348000]
-inputs:
-  "/Users/rui.peres/OSS/monocle/Sources/inspect.swift": [539626327, 0]
-  "/Users/rui.peres/OSS/monocle/Sources/main.swift": [539626192, 0]
-  "/Users/rui.peres/OSS/monocle/Sources/root.swift": [539626192, 0]
-  "/Users/rui.peres/OSS/monocle/Sources/setup.swift": [539626327, 0]

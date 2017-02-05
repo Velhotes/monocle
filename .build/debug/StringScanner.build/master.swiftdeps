@@ -1,9 +1,0 @@
-version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
-options: "c4470a0381eb6a56a31cdf079c93b1b5"
-build_time: [539626337, 972936000]
-inputs:
-  "/Users/rui.peres/OSS/monocle/Packages/StringScanner-0.2.0/Sources/CharacterSet.swift": [539626336, 0]
-  "/Users/rui.peres/OSS/monocle/Packages/StringScanner-0.2.0/Sources/Regex.swift": [539626336, 0]
-  "/Users/rui.peres/OSS/monocle/Packages/StringScanner-0.2.0/Sources/ScannerResult.swift": [539626336, 0]
-  "/Users/rui.peres/OSS/monocle/Packages/StringScanner-0.2.0/Sources/StringExtension.swift": [539626336, 0]
-  "/Users/rui.peres/OSS/monocle/Packages/StringScanner-0.2.0/Sources/StringScanner.swift": [539626336, 0]
